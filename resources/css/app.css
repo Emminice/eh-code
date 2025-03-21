@@ -1,0 +1,12 @@
+/* body { */
+    /* background: rgba(31, 30, 30, 0.233);
+    background-color: tomato; */
+/* }  */
+
+/* app.css */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
